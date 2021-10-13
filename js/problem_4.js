@@ -1,0 +1,1 @@
+const flashingBlock = document.querySelector('#problem-4 #color-target');
